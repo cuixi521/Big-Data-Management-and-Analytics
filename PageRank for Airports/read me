@@ -1,0 +1,9 @@
+Dataset:
+Go to the url https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236 
+and filter the year to 2018 and Filter period.
+download the .csv file
+
+Program Arguments: three parameters:
+1. Location of the csv file containing the fields mentioned above
+2. Maximum number of iterations to run
+3. Location of output file
