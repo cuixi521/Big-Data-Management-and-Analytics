@@ -1,0 +1,6 @@
+Program Arguments: 
+two parameters:
+1. Location of the directory that contains files from the unzipped MovieSummaries folder that downloaded from 
+   http://www.cs.cmu.edu/~ark/personas/data/MovieSummaries.tar.gz. 
+   This location could be on Amazon S3 storage.
+2. A search term entered by the user
